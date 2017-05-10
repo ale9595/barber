@@ -1,0 +1,2 @@
+This the CS112 project for Alessandro Luciano and Sabrina Rostkowski. 
+It is a web app intended for hair cutteries and barbers to use to create a digital queue of their customers. Add someone to the queue by filling out the form, and when you remove someone you'll be prompted to notify the next person in line that their turn is there via email.
